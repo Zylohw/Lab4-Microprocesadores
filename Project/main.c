@@ -12,6 +12,8 @@ int main(void){
  my_strcpy(z, c);
  my_strcpy(f, s);
  my_capitalize(b);
+ my_capitalize(c);
+ my_capitalize(s);
     for(;;){
 
  }
